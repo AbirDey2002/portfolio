@@ -20,8 +20,8 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">I am a B. tech candidate pursuing <span className="font-medium">Computer Science and Engineering at Vellore Institute of Technology
         , Bhopal, India</span> specializing on Web-development, Artificial Intelligence and Machine Learning.
-        My work focuses falls under the genre of public service meaning anyone and everyone can
-        use my projects to avail any kind of service or to retrieve bare information. These include 
+        My work falls under the genre of public service meaning anyone and everyone can
+        use my projects to avail some form of service. These include 
         AI integrated as well as full stack web applications that work with the latest frameworks as well as try
          to merge the field of AI and software development to achieve the best of both worlds. 
       </p>
@@ -31,8 +31,8 @@ export default function About() {
         After graduating with a degree in{" "}
         <span className="font-medium">Computer Science</span>, I want to continue my
         passion for programming. I learned{" "}
-        <span className="font-medium">full-stack web development</span> as well 
-        as sharpening my skills at the <span className="font-medium">machine learning front</span>{" "}
+        <span className="font-medium">full-stack web development</span> whilst 
+        sharpening my skills at the <span className="font-medium">machine learning front</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core skills 
