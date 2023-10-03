@@ -1,5 +1,5 @@
 import React from "react";
-import { GrCertificate } from "react-icons/gr";
+import { PiCertificateDuotone } from "react-icons/pi";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
@@ -40,7 +40,7 @@ export const experiencesData = [
     location: "Green Valley High, Vadodara, India",
     description:
       "I graduated 10 and 10+2 with a percentage score of 94.2 and 84.8 respectively. Wanted to pursue CS and immediately got a position at VIT",
-    icon: React.createElement(GrCertificate),
+    icon: React.createElement(PiCertificateDuotone),
     date: "2020",
   },
   {
