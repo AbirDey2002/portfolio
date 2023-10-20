@@ -1,3 +1,23 @@
+## Intro
+
+This is a Next.js application used for personal portfolio development and uses framer motion as well as the static deployment feature of Next.js for the smooth , attractive and responsive UI. Developed by [**ME**](https://github.com/AbirDey2002). Has various sections such as the introduction for a quick and brief overview, projects section, technical strengths section, timeline and a way to contact me as well. has adaptive UI as well, changes theme with respect to the device theme.
+
+### Sections
+
+1. Introduction
+2. Projects
+3. Technical strengths
+4. Timeline
+5. Email me
+
+## Dependencies
+
+- React Email
+- clsx
+- framer motion
+- hot toast
+- resend
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
