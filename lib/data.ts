@@ -61,7 +61,7 @@ export const experiencesData = [
   },
   {
     title: "Software Developer and ML engineer",
-    location: "Bhopal, India",
+    location: "Kolkata, India",
     description:
       "I'm a full-stack developer. My stack includes React, Next.js, TypeScript, Tailwind and MongoDB. I also excel at Java and Python as well as learning C++ for system software positions granting my profile extra flexibility. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
@@ -70,13 +70,6 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-  {
-    title: "AI Image Generation integrated MERN stack",
-    description:
-      "I worked as a full-stack developer on this project for 4 months. Uses techologies such as DALL-E and cloudinary",
-    tags: ["React", "Cloudinary", "MongoDB", "Tailwind", "OpenAI", "MERN"],
-    imageUrl: dalleImg,
-  },
   {
     title: "Project Portfolio Manager",
     description:
@@ -90,6 +83,12 @@ export const projectsData = [
       "A crypto-currency Full Stack application with Ethereum wallet-to-wallet transfer route and other features such as subscriptions, giphy, etc",
     tags: ["React", "Firebase", "Solidity", "Tailwind", "Goerli"],
     imageUrl: wordanalyticsImg,
+  },{
+    title: "AI Image Generation integrated MERN stack",
+    description:
+      "I worked as a full-stack developer on this project for 4 months. Uses techologies such as DALL-E and cloudinary",
+    tags: ["React", "Cloudinary", "MongoDB", "Tailwind", "OpenAI", "MERN"],
+    imageUrl: dalleImg,
   },
 ] as const;
 
